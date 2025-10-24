@@ -1,2 +1,1 @@
-gfw,https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
-ads,https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+cn,https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
